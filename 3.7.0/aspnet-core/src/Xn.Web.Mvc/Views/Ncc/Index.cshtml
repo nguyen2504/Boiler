@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Angular/Ncc/ncc.js" type="text/javascript"></script>
+<script src="~/Directive/createEditNcc.js" type="text/javascript"></script>
+
+@*<button ng-click="onCreate()" data-toggle="modal"  title="Thêm Mới Nhà Cung Cấp" type="button" class="btn btn-primary btn-circle waves-effect waves-circle waves-float pull-right" >
+    <i class="material-icons">add</i>
+</button>*@
+@*<create-edit-ncc>dd</create-edit-ncc>*@
+
+@*<div ng-include="'~/Angular/Ncc/createEdit.html'"></div>*@
+
+<div>
+    <h2 style="color: #4169e1;text-align: center">DANH SÁCH NHÀ CUNG CẤP</h2>
+    <button type="button" style="width: 100%" ng-click="onCreate()" class="btn btn-info btn-lg" >Thêm Nhà Cung Cấp Mới</button>
+    <div class="col-md-12" style="background: white; margin-top: 5px;margin-bottom: 5px" ng-if="nccs.length>0">
+        <table datatable="" dt-options="showCase.dtOptions" dt-column-defs="showCase.dtColumnDefs" class="row-border hover">
+            <thead>
+                <tr>
+                    <th>#({{nccs.length}})</th>
+                    <th>Nhà Cung Cấp</th>
+                    <th>Địa Chỉ</th>
+                    <th>Mã Số Thuế</th>
+                    <th>Điện Thoại</th>
+                    <th>Danh Mục Hàng</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="w in nccs">
+                    <td>{{$index}}</td>
+                    <td>{{w.tenNcc}}</td>
+                    <td>{{w.diaChi}}</td>
+                    <td>{{w.masoThue}}</td>
+                    <td><a href="tel:{{w.dienThoai}}" title="Goi">{{w.dienThoai}}</a></td>
+                    <td>{{w.danhMucHang}}</td>
+                    <td class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            <i class="material-icons">menu</i>
+                        </a>
+                        <ul class="dropdown-menu pull-right">
+                            <li><a href="#" ng-click="onEdit(w.id)" data-toggle="modal" data-target="#myModal" class="waves-effect waves-block edit-tenant" data-tenant-id="1" data-toggle="modal" data-target="#TenantEditModal"><i class="material-icons">edit</i>Edit</a></li>
+                            <li><a href="#" ng-click="onDelete(w.id)" title="Cẩn thận khi xóa bạn không thể phục hồi lại" class="waves-effect waves-block delete-tenant" data-tenant-id="1" data-tenancy-name="Default"><i class="material-icons">delete_sweep</i>Delete</a></li>
+                        </ul>
+                    </td>
+                    @*<td>
+                            <button ng-click="onEdit(w.id)"  data-toggle="modal" data-target="#myModal" type="button" class="btn btn-warning btn-circle waves-effect waves-circle waves-float pull-right" >
+                                <i class="material-icons">edit</i>
+                            </button>
+                            <button ng-click="onDelete(w.id)"  type="button" class="btn btn-danger btn-circle waves-effect waves-circle waves-float pull-right" >
+                                <i class="material-icons">delete</i>
+                            </button>
+
+                        </td>*@
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<button type="button" style="width: 100%" ng-if="nccs.length>5" ng-click="onCreate()" class="btn btn-info btn-lg" >Thêm Nhà Cung Cấp Mới</button>
+
+<!-- Modal -->
+@await Html.PartialAsync("CreateEdit")
+

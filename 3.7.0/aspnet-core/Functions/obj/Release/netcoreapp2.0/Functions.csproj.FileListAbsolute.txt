@@ -1,0 +1,18 @@
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\bin\Release\netcoreapp2.0\Functions.deps.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\bin\Release\netcoreapp2.0\Functions.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\bin\Release\netcoreapp2.0\Functions.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.AssemblyInfoInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.AssemblyInfo.cs
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.pdb
+D:\Boiler\3.7.0\aspnet-core\Functions\bin\Release\netcoreapp2.0\Functions.deps.json
+D:\Boiler\3.7.0\aspnet-core\Functions\bin\Release\netcoreapp2.0\Functions.dll
+D:\Boiler\3.7.0\aspnet-core\Functions\bin\Release\netcoreapp2.0\Functions.pdb
+D:\Boiler\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.dll
+D:\Boiler\3.7.0\aspnet-core\Functions\obj\Release\netcoreapp2.0\Functions.pdb

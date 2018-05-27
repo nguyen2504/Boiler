@@ -1,0 +1,120 @@
+info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[0]
+      User profile is available. Using 'C:\Users\nguye\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+Hosting environment: Development
+Content root path: C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Mvc
+Now listening on: http://localhost:20146
+Application started. Press Ctrl+C to shut down.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService[1]
+      Authorization was successful.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Xn.Web.Controllers.HomeController.Index (Xn.Web.Mvc) with arguments ((null)) - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor[1]
+      Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Xn.Web.Controllers.HomeController.Index (Xn.Web.Mvc) in 12076.3224ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 14742.566ms 200 text/html; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/AbpServiceProxies/GetAll?v=636623946495619894  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) with arguments (Abp.AspNetCore.Mvc.Proxying.ApiProxyGenerationModel) - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/x-javascript
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) in 1022.1289ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 1249.6156ms 200 application/x-javascript
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/AbpScripts/GetScripts?v=636623946495619894  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) with arguments () - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/x-javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) in 490.5979ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 592.3816ms 200 application/x-javascript; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/signalr  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Sockets.Internal.Transports.WebSocketsTransport[1]
+      Socket opened.
+info: Microsoft.AspNetCore.SignalR.HubConnectionContext[1]
+      Using HubProtocol 'json'.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/Users  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService[1]
+      Authorization was successful.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Xn.Web.Controllers.UsersController.Index (Xn.Web.Mvc) with arguments ((null)) - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor[1]
+      Executing ViewResult, running view at path /Views/Users/Index.cshtml.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Xn.Web.Controllers.UsersController.Index (Xn.Web.Mvc) in 2002.7921ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 2043.6263ms 200 text/html; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/AbpServiceProxies/GetAll?v=636623946495619894  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Sockets.Internal.Transports.WebSocketsTransport[2]
+      Socket closed.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 7278.6896ms 101 
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) with arguments (Abp.AspNetCore.Mvc.Proxying.ApiProxyGenerationModel) - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/x-javascript
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) in 38.4876ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 76.4312ms 200 application/x-javascript
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/AbpScripts/GetScripts?v=636623946495619894  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) with arguments () - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/x-javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) in 175.0329ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 199.3064ms 200 application/x-javascript; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/signalr  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Sockets.Internal.Transports.WebSocketsTransport[1]
+      Socket opened.
+info: Microsoft.AspNetCore.SignalR.HubConnectionContext[1]
+      Using HubProtocol 'json'.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/lib/signalr-client/signalr.min.js.map  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[8]
+      AuthenticationScheme: Identity.Application was successfully authenticated.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 47.9193ms 404 
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/lib/bootstrap-select/dist/css/bootstrap-select.css.map  
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/lib/bootstrap/dist/css/bootstrap.css.map  
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css.map'. Physical path: 'C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/lib/bootstrap-select/dist/css/bootstrap-select.css.map'. Physical path: 'C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Mvc\wwwroot\lib\bootstrap-select\dist\css\bootstrap-select.css.map'
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 121.4954ms 200 text/plain
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 132.7142ms 200 text/plain

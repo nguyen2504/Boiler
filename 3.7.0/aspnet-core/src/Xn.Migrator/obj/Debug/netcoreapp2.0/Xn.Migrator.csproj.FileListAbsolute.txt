@@ -1,0 +1,105 @@
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\appsettings.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\log4net.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.deps.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.dev.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csprojResolveAssemblyReference.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CoreCompileInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfoInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfo.cs
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CopyComplete
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\log4net.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.deps.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.dev.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfoInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfo.cs
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CopyComplete
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\appsettings.json
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\log4net.config
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.deps.json
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.json
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.dev.json
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csprojResolveAssemblyReference.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CoreCompileInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfoInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfo.cs
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CopyComplete
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\log4net.config
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.deps.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.dev.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csprojAssemblyReference.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CoreCompileInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfoInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfo.cs
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CopyComplete
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\log4net.config
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.deps.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.runtimeconfig.dev.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Migrator.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.csproj.CopyComplete
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Migrator\obj\Debug\netcoreapp2.0\Xn.Migrator.pdb

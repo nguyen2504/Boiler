@@ -1,0 +1,1 @@
+﻿///<binding AfterBuild='Clean output files, Update all files' Clean='Clean output files' />

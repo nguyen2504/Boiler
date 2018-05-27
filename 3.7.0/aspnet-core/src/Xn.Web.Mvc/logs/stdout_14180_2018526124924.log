@@ -1,0 +1,80 @@
+info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[0]
+      User profile is available. Using 'C:\Users\nguye\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+Hosting environment: Development
+Content root path: D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc
+Now listening on: http://localhost:29060
+Application started. Press Ctrl+C to shut down.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[7]
+      Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[3]
+      Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+info: Microsoft.AspNetCore.Mvc.ChallengeResult[1]
+      Executing ChallengeResult with authentication schemes ().
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[12]
+      AuthenticationScheme: Identity.Application was challenged.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Xn.Web.Controllers.HomeController.Index (Xn.Web.Mvc) in 1438.3632ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 9912.7761ms 302 
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/Account/Login?ReturnUrl=%2F  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[7]
+      Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Xn.Web.Controllers.AccountController.Login (Xn.Web.Mvc) with arguments (, /, ) - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor[1]
+      Executing ViewResult, running view at path /Views/Account/Login.cshtml.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Xn.Web.Controllers.AccountController.Login (Xn.Web.Mvc) in 40422.2926ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 40769.3478ms 200 text/html; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Account/_Layout.css?v=vIEtxnpR3ZrYbYcueRr_mJ9XuJJzDprh4sMCwvRBcqk  
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /view-resources/Views/Account/_Layout.css was not modified
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 168.8753ms 304 text/css
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Account/Login.css?v=j_16MTiQNlUrKdjTrCjLCSGkIIjHvt8tFUyucW02Vqw  
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /view-resources/Views/Account/Login.css was not modified
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 3.2037ms 304 text/css
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/AbpScripts/GetScripts?v=636629609845701978  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[7]
+      Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/AbpServiceProxies/GetAll?v=636629609845701978  
+info: Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler[7]
+      Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Shared/Components/TenantChange/Default.js?v=636629610552987423  
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/view-resources/Views/Shared/Components/TenantChange/Default.js'. Physical path: 'D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\wwwroot\view-resources\Views\Shared\Components\TenantChange\Default.js'
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 147.1572ms 200 application/javascript
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) with arguments () - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) with arguments (Abp.AspNetCore.Mvc.Proxying.ApiProxyGenerationModel) - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/x-javascript
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) in 1344.223ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 1563.2026ms 200 application/x-javascript
+info: Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor[1]
+      Executing ContentResult with HTTP Response ContentType of application/x-javascript; charset=utf-8
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) in 1428.0641ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 1627.5058ms 200 application/x-javascript; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Account/Login.js?v=o2PUQBkwW7VjtzD5RNxKPa3oShr3fMFHds_2dwIAV5M  
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /view-resources/Views/Account/Login.js was not modified
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 2.9721ms 304 application/javascript

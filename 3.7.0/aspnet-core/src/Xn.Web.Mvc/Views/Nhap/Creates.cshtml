@@ -1,0 +1,78 @@
+﻿<div>
+    
+    <div align="center" class="ab_center" style="width: {{gWidth}};height:{{gHeight}};">
+        <label for="giay"> Chọn Giấy</label>
+        <select id="giay" ng-model="chonGiay" ng-change="onChange()">
+            <option value="5">A5 (Dọc)</option>
+            <option value="4">A4 (Dọc)</option>
+        </select>
+        <table class="table" style="background: #27f305">
+
+        </table>
+    </div>
+    <!-- Trigger the modal with a button -->
+    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myNhap">Open Modal</button>
+
+    <!-- Modal -->
+    <div id="myNhap" class="modal fade " role="dialog">
+        <form  role="form" name="form" ng-submit="onSubmit()">
+            <div class="modal-dialog modal-lg">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Nhập Hàng</h4>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Tên Hàng</th>
+                                    <th >Số Lượng</th>
+                                    <th>ĐVT</th>
+                                    <th>Đơn Giá</th>
+                                    <th>Thành Tiền</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            <tr ng-repeat="w in l">
+                                <td>{{$index}}</td>
+                                <td><input type="text" ng-model="w.TenHang" required=""/></td>
+                                <td> <input  style="width: 50px" type="number" ng-model="w.SoLuong" required="" /></td>
+                                <td ><input style="width: 75px" type="text" ng-model="w.Dvt" required="" /></td>
+                                <td><input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" /></td>
+                                <td>{{w.SoLuong*w.DonGiaMua*1000|number}}&nbsp;VND</td>
+                            </tr>
+                            <tr>
+                                <td colspan="5">Tổng</td>
+                                <td>{{sum|number }}&nbsp;VND</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-primary waves-effect" >Submit</button>
+                        <button type="button" class="btn btn-danger waves-effect" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>
+<style>
+    .ab_center
+    {
+        /*height:300px;
+        width:300px;*/
+        background-color:#27f305;
+        position:relative;
+        margin:auto;
+        top:0;
+        left:0;
+        right:0;
+        bottom:0;
+    }
+</style>

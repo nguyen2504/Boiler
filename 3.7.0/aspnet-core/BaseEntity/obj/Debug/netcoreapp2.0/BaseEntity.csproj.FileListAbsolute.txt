@@ -1,0 +1,62 @@
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb

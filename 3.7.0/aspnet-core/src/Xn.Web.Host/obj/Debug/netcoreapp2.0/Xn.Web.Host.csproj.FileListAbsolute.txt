@@ -1,0 +1,125 @@
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Dockerfile
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.deps.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.dev.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CoreCompileInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfoInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfo.cs
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CopyComplete
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Dockerfile
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.deps.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.dev.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfoInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfo.cs
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CopyComplete
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Dockerfile
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll.config
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.deps.json
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.json
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.dev.json
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csprojResolveAssemblyReference.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CoreCompileInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfoInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfo.cs
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CopyComplete
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Dockerfile
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll.config
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.deps.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.dev.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csprojAssemblyReference.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CoreCompileInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfoInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfo.cs
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CopyComplete
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Dockerfile
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll.config
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.deps.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.runtimeconfig.dev.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Host.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Web.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.csproj.CopyComplete
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Host\obj\Debug\netcoreapp2.0\Xn.Web.Host.pdb

@@ -1,0 +1,120 @@
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.deps.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.dev.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csprojResolveAssemblyReference.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CoreCompileInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfoInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfo.cs
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CopyComplete
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.deps.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.dev.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfoInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfo.cs
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CopyComplete
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.deps.json
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.json
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.dev.json
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csprojResolveAssemblyReference.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CoreCompileInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfoInputs.cache
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfo.cs
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CopyComplete
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\DMT\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.deps.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.dev.json
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csprojAssemblyReference.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CoreCompileInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfoInputs.cache
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfo.cs
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CopyComplete
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.pdb
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.deps.json
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.json
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.runtimeconfig.dev.json
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Tests.pdb
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.csproj.CopyComplete
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.dll
+D:\Boiler\3.7.0\aspnet-core\test\Xn.Tests\obj\Debug\netcoreapp2.0\Xn.Tests.pdb

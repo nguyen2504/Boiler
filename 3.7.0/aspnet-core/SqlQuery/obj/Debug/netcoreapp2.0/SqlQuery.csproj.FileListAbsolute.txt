@@ -1,0 +1,9 @@
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\bin\Debug\netcoreapp2.0\SqlQuery.deps.json
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\bin\Debug\netcoreapp2.0\SqlQuery.dll
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\bin\Debug\netcoreapp2.0\SqlQuery.pdb
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.dll
+D:\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.pdb

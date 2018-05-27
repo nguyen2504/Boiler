@@ -1,0 +1,18 @@
+
+Unhandled Exception: System.FormatException: Could not parse the JSON file. Error on line number '3': '"ConnectionStrings": {
+"Default": "Server=DESKTOP-HKP6VH2\SQLEXPRESS; Database=Xnk; Trusted_Connection=True;"'. ---> Newtonsoft.Json.JsonReaderException: Bad JSON escape sequence: \S. Path 'ConnectionStrings.Default', line 3, position 40.
+   at Newtonsoft.Json.JsonTextReader.ReadStringIntoBuffer(Char quote)
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.Parse(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHostBuilder.BuildCommonServices(AggregateException& hostingStartupErrors)
+   at Microsoft.AspNetCore.Hosting.WebHostBuilder.Build()
+   at Xn.Web.Startup.Program.BuildWebHost(String[] args) in C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Mvc\Startup\Program.cs:line 15
+   at Xn.Web.Startup.Program.Main(String[] args) in C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Mvc\Startup\Program.cs:line 10

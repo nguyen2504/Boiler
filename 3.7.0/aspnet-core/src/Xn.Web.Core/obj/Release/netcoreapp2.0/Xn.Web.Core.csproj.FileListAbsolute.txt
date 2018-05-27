@@ -1,0 +1,76 @@
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.deps.json
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfo.cs
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CopyComplete
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.deps.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csprojResolveAssemblyReference.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CoreCompileInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfoInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfo.cs
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CopyComplete
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.deps.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfoInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfo.cs
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CopyComplete
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.deps.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Web.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Application.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\bin\Release\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.csproj.CopyComplete
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Core\obj\Release\netcoreapp2.0\Xn.Web.Core.pdb

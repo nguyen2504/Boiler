@@ -1,0 +1,62 @@
+﻿@model Xn.Company.Dto.CompanyDto
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<environment names="Development">   
+    <script type="text/javascript" src="~/Angular/Company/companyCtrl.js" asp-append-version="true"></script>
+    <script type="text/javascript" src="~/js/tool/snackbar.js" asp-append-version="true"></script>
+</environment>
+
+<environment names="Staging,Production">
+    <script type="text/javascript" src="~/view-resources/Views/Angular/Company/company.min.js" asp-append-version="true"></script>
+</environment>
+<div class="row">
+    <div class="" ng-if="!showEdit">
+        @if (Model?.Name != null)
+        {
+            <section class="col-md-6">
+                <h2>Thông tin công ty <span class="text-center text-info">@Model.Name</span>&nbsp; <button  class="btn btn-warning btn-circle waves-effect waves-circle waves-float left" ng-click="onEdit()"><i class="material-icons">edit</i></button></h2>
+                <table class="row-border hover dataTable">
+                    <tbody>
+                    <tr>
+                        <td>Mã Số Thuế</td>
+                        <td>@Model.Code</td>
+                    </tr>
+                    <tr>
+                        <td>Địa Chỉ</td>
+                        <td>@Model.Address</td>
+                    </tr>
+                    <tr>
+                        <td>Số Điện Thoại</td>
+                        <td>@Model.Phone</td>
+                    </tr>
+                    <tr>
+                        <td>Ngày Thành Lập</td>
+                        <td>@Model.StartFounding.ToShortDateString()</td>
+                    </tr>
+                    <tr>
+                        <td>Fax</td>
+                        <td>@Model.Fax</td>
+                    </tr>
+                    </tbody>
+             
+                </table>
+            </section>
+        }
+        @if (@Model?.Name == null)
+        {
+            <span class="alert alert-danger text-center">Chưa Có thông tin công ty</span>
+            <button style="float: left;margin-top: 50px" class="btn btn-primary  waves-effect  waves-float left" ng-click="onCreate()">Thêm Thông Tin Công Ty</button>
+        }
+    </div>
+</div>
+<div ng-if="showEdit" ng-include="'@Url.Action("Edit","Company")'"></div>
+@*<button id="single" class="paper-button raised-button colored">Single line<div class="ripple"></div> </button>
+<button onclick="myFunction()">Show Snackbar</button>
+<div class="snackbar">Some text some message..</div>*@
+<div ng-if="showCreate" ng-include="'@Url.Action("Create","Company")'"></div>
+
+<div ng-include="'/Angular/edit.html'"></div>

@@ -1,0 +1,72 @@
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.deps.json
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.json
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.pdb
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\User\Google Drive\DMT\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.deps.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.dev.json
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.pdb
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfo.cs
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CopyComplete
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\DMT\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.deps.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.pdb
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+C:\Users\nguye\Google Drive\Xn\Xn\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.deps.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.dev.json
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Release\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.AssemblyInfo.cs
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CopyComplete
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.dll
+D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Release\netcoreapp2.0\Xn.EntityFrameworkCore.pdb

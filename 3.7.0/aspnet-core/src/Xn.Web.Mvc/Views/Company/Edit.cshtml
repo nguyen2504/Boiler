@@ -1,0 +1,91 @@
+﻿@model Xn.Models.Company.Company
+<h2 > @Model.Name</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" required="" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Code" class="control-label"></label>
+                <input asp-for="Code" class="form-control" required="" />
+                <span asp-validation-for="Code" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" required="" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" required="" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fax" class="control-label"></label>
+                <input asp-for="Fax" class="form-control" required="" />
+                <span asp-validation-for="Fax" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartFounding" class="control-label"></label>
+                <input asp-for="StartFounding" class="form-control" />
+                <span asp-validation-for="StartFounding" class="text-danger"></span>
+            </div>
+
+            <input type="hidden" asp-for="Id" />
+            <!--hidden-->
+            <div class="hidden">
+                <input asp-for="IdScurity" class="form-control" />
+                <div class="form-group">
+                    <div class="checkbox">
+                        <label>
+                            <input asp-for="IsDeleted" /> @Html.DisplayNameFor(model => model.IsDeleted)
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DeleterUserId" class="control-label"></label>
+                    <input asp-for="DeleterUserId" value="1" class="form-control" />
+                    <span asp-validation-for="DeleterUserId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DeletionTime" class="control-label"></label>
+                    <input asp-for="DeletionTime" type="date" class="form-control" />
+                    <span asp-validation-for="DeletionTime" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="LastModificationTime" class="control-label"></label>
+                    <input asp-for="LastModificationTime" type="date" class="form-control" />
+                    <span asp-validation-for="LastModificationTime" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="LastModifierUserId" class="control-label"></label>
+                    <input asp-for="LastModifierUserId" class="form-control" />
+                    <span asp-validation-for="LastModifierUserId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CreationTime" class="control-label"></label>
+                    <input asp-for="CreationTime" type="date" class="form-control" />
+                    <span asp-validation-for="CreationTime" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CreatorUserId" class="control-label"></label>
+                    <input asp-for="CreatorUserId" class="form-control" />
+                    <span asp-validation-for="CreatorUserId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
