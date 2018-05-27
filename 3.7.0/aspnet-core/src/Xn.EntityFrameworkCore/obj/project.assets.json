@@ -7065,17 +7065,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj",
+      "projectUniqueName": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj",
       "projectName": "Xn.EntityFrameworkCore",
-      "projectPath": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj",
+      "projectPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\obj\\",
+      "outputPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\Boiler\\3.7.0\\aspnet-core\\NuGet.Config",
+        "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\NuGet.Config",
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7090,8 +7090,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.Core\\Xn.Core.csproj": {
-              "projectPath": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.Core\\Xn.Core.csproj"
+            "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.Core\\Xn.Core.csproj": {
+              "projectPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.Core\\Xn.Core.csproj"
             }
           }
         }

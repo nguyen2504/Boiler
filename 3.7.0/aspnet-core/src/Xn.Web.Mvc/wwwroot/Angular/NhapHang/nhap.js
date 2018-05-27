@@ -34,10 +34,7 @@ function FnNhap($scope, $http) {
       };
       $scope.l.push(item);
     }
-    $scope.sum = 0;
-    for (var i = 0; i < $scope.l.length; i++) {
-      $scope.sum += $scope.l[i].SoLuong * $scope.l[i].DonGiaMua*1000;
-    }
+    $scope.tong();
     //console.log(JSON.stringify($scope.l));
     //var item1 = {
     //  Id: $scope.Id[i],
@@ -53,6 +50,13 @@ function FnNhap($scope, $http) {
     //  IsActive: 1,
     //  MaVt: $scope.MaVt[i]
     //};
+  }
+  $scope.tong = function() {
+    console.log('toi day '+$scope.l.length);
+    $scope.sum = 0;
+    for (var i = 0; i < $scope.l.length; i++) {
+      $scope.sum += $scope.l[i].SoLuong * $scope.l[i].DonGiaMua;
+    }
   }
   $scope.GetTenNcc = function () {
     var url = 'Nhap/GetTenNcc';

@@ -11226,17 +11226,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.Web.Core\\Xn.Web.Core.csproj",
+      "projectUniqueName": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.Web.Core\\Xn.Web.Core.csproj",
       "projectName": "Xn.Web.Core",
-      "projectPath": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.Web.Core\\Xn.Web.Core.csproj",
+      "projectPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.Web.Core\\Xn.Web.Core.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.Web.Core\\obj\\",
+      "outputPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.Web.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\Boiler\\3.7.0\\aspnet-core\\NuGet.Config",
+        "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\NuGet.Config",
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11251,11 +11251,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.Application\\Xn.Application.csproj": {
-              "projectPath": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.Application\\Xn.Application.csproj"
+            "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.Application\\Xn.Application.csproj": {
+              "projectPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.Application\\Xn.Application.csproj"
             },
-            "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj": {
-              "projectPath": "D:\\Boiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj"
+            "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\src\\Xn.EntityFrameworkCore\\Xn.EntityFrameworkCore.csproj"
             }
           }
         }

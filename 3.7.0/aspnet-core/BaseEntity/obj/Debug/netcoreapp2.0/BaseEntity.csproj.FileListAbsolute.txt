@@ -50,7 +50,6 @@ D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEnti
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
-D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojAssemblyReference.cache
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
@@ -60,3 +59,4 @@ D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.Assemb
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache

@@ -37,16 +37,17 @@
                                 </tr>
                             </thead>
                             <tbody>
-                            <tr ng-repeat="w in l">
+                            <tr ng-repeat="w in l" >
                                 <td>{{$index}}</td>
                                 <td><input type="text" ng-model="w.TenHang" required=""/></td>
-                                <td> <input  style="width: 50px" type="number" ng-model="w.SoLuong" required="" /></td>
+                                <td> <input  style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()"/></td>
                                 <td ><input style="width: 75px" type="text" ng-model="w.Dvt" required="" /></td>
-                                <td><input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" /></td>
-                                <td>{{w.SoLuong*w.DonGiaMua*1000|number}}&nbsp;VND</td>
+                                <td><input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()"/></td>
+                                <td style="text-align: left">{{w.SoLuong*w.DonGiaMua|number}}&nbsp;VND</td>
                             </tr>
                             <tr>
-                                <td colspan="5">Tổng</td>
+                                <td colspan="3"></td>
+                                <td colspan="2"><b style="text-align: right">Tổng</b></td>
                                 <td>{{sum|number }}&nbsp;VND</td>
                             </tr>
                             </tbody>

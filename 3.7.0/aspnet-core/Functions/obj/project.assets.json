@@ -670,17 +670,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Boiler\\3.7.0\\aspnet-core\\Functions\\Functions.csproj",
+      "projectUniqueName": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\Functions\\Functions.csproj",
       "projectName": "Functions",
-      "projectPath": "D:\\Boiler\\3.7.0\\aspnet-core\\Functions\\Functions.csproj",
+      "projectPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\Functions\\Functions.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\Boiler\\3.7.0\\aspnet-core\\Functions\\obj\\",
+      "outputPath": "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\Functions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\Boiler\\3.7.0\\aspnet-core\\NuGet.Config",
+        "D:\\Boiler\\XnBoiler\\3.7.0\\aspnet-core\\NuGet.Config",
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -33,7 +33,6 @@ D:\Boiler\XnBoiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.AssemblyInfo.cs
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.dll
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.pdb
-D:\Boiler\XnBoiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.csprojAssemblyReference.cache
 D:\Boiler\3.7.0\aspnet-core\Functions\bin\Debug\netcoreapp2.0\Functions.deps.json
 D:\Boiler\3.7.0\aspnet-core\Functions\bin\Debug\netcoreapp2.0\Functions.dll
 D:\Boiler\3.7.0\aspnet-core\Functions\bin\Debug\netcoreapp2.0\Functions.pdb
@@ -43,3 +42,4 @@ D:\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.Assembly
 D:\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.AssemblyInfo.cs
 D:\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.dll
 D:\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.csprojResolveAssemblyReference.cache

@@ -155,7 +155,6 @@ D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.W
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.csproj.CopyComplete
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.dll
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.pdb
-D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.csprojAssemblyReference.cache
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\bin\Debug\netcoreapp2.0\Dockerfile
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\bin\Debug\netcoreapp2.0\Xn.Web.Mvc.dll.config
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\bin\Debug\netcoreapp2.0\Xn.Web.Mvc.deps.json
@@ -183,3 +182,4 @@ D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.As
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.csproj.CopyComplete
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.dll
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Web.Mvc\obj\Debug\netcoreapp2.0\Xn.Web.Mvc.csprojResolveAssemblyReference.cache

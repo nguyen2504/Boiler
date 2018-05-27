@@ -105,7 +105,6 @@ D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcor
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CopyComplete
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
-D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.csprojAssemblyReference.cache
 D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll.config
 D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.deps.json
 D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.runtimeconfig.json
@@ -124,3 +123,4 @@ D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\X
 D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.csproj.CopyComplete
 D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.dll
 D:\Boiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Xn.EntityFrameworkCore.csprojResolveAssemblyReference.cache

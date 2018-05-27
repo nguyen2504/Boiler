@@ -81,7 +81,6 @@ D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.csproj.CopyComplete
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.dll
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.pdb
-D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.csprojAssemblyReference.cache
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Application\bin\Debug\netcoreapp2.0\Xn.Application.deps.json
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Application\bin\Debug\netcoreapp2.0\Xn.Application.dll
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Application\bin\Debug\netcoreapp2.0\Xn.Application.pdb
@@ -96,3 +95,4 @@ D:\Boiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Applic
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.csproj.CopyComplete
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.dll
 D:\Boiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.pdb
+D:\Boiler\XnBoiler\3.7.0\aspnet-core\src\Xn.Application\obj\Debug\netcoreapp2.0\Xn.Application.csprojResolveAssemblyReference.cache
