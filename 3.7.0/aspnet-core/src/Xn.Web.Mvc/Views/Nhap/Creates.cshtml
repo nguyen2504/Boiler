@@ -25,23 +25,26 @@
                         <h4 class="modal-title">Nhập Hàng</h4>
                     </div>
                     <div class="modal-body">
+                        <div>
+                            <p>Mã Đơn Hàng: <input type="text" ng-model="MaDonHang1"/></p>
+                        </div>
                         <table class="table">
                             <thead>
-                                <tr>
-                                    <th>#</th>
-                                    <th>Tên Hàng</th>
-                                    <th >Số Lượng</th>
-                                    <th>ĐVT</th>
-                                    <th>Đơn Giá</th>
-                                    <th>Thành Tiền</th>
-                                </tr>
+                            <tr>
+                                <th>#</th>
+                                <th>Tên Hàng</th>
+                                <th >Số Lượng</th>
+                                <th>ĐVT</th>
+                                <th>Đơn Giá</th>
+                                <th>Thành Tiền</th>
+                            </tr>
                             </thead>
                             <tbody>
-                            <tr ng-repeat="w in l" >
+                            <tr ng-repeat="w in l">
                                 <td>{{$index}}</td>
                                 <td><input type="text" ng-model="w.TenHang" required=""/></td>
-                                <td> <input  style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()"/></td>
-                                <td ><input style="width: 75px" type="text" ng-model="w.Dvt" required="" /></td>
+                                <td> <input style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()"/></td>
+                                <td ><input style="width: 75px" type="text" ng-model="w.Dvt" required=""/></td>
                                 <td><input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()"/></td>
                                 <td style="text-align: left">{{w.SoLuong*w.DonGiaMua|number}}&nbsp;VND</td>
                             </tr>

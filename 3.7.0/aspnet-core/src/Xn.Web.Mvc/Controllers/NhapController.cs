@@ -1,7 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using Abp.AutoMapper;
 using Castle.Components.DictionaryAdapter;
 using Microsoft.AspNetCore.Mvc;
+using Xn.Authorization.Users;
 using Xn.Controllers;
 using Xn.Models;
 using Xn.Services;
@@ -12,11 +15,14 @@ namespace Xn.Web.Controllers
     {
         private readonly INhapHangService _nhap;
         private readonly IQlNhapXuatService _qlNx;
-     
-        public NhapController(INhapHangService nhap, IQlNhapXuatService qlNx)
+        private readonly UserManager _user;
+        private readonly INccService _ncc;
+        public NhapController(INhapHangService nhap, IQlNhapXuatService qlNx, UserManager user, INccService ncc)
         {
             _nhap = nhap;
             _qlNx = qlNx;
+            _user = user;
+            _ncc = ncc;
         }
         public int IdCty()
         {
@@ -35,12 +41,46 @@ namespace Xn.Web.Controllers
         {
            return View();
         }
+
+        public IActionResult GetMaDh()
+        {
+            var id = _user.AbpSession.UserId;
+            var name = _user.Users.FirstOrDefault(j => j.Id.Equals(id));
+            var date = DateTime.Today;
+            var madh = "";
+            var moth = "";
+            if (date.Month < 10)
+            {
+                moth = "0" + date.Month;}
+            else
+            {
+                moth =  date.Month.ToString();
+            }
+            
+            var t = _nhap.GetAll(IdCty()).ToList()
+                .Where(j => j.NgayGhi.Month.Equals(date.Month) && j.NgayGhi.Year.Equals(date.Year)).ToList();
+            if (t.Count() < 10) madh += "0" + t.Count() + moth + date.Year.ToString()[2] + date.Year.ToString()[3];
+            if (name != null)
+            {
+                madh += name.Name[0];
+            }
+          
+
+            return  Json(madh);
+        }
         [HttpPost]
         public IActionResult CreateOrEdit([FromBody] List<NhapHangEntity> entity  )
         {
-            //var ouput = entity.MapTo<QlNcc>();
-            //ouput.NgayGhi = Functions.Convert.JsToServer(entity.NgayGhi);
-            return Content("");
+            foreach (var w in entity)
+            {
+                w.IdNv = 0;
+                w.TenNv = "Test";
+                var ouput = w.MapTo<QlNcc>();
+                ouput.NgayGhi = DateTime.Now;
+                _nhap.Create(ouput);
+            }
+
+            return Content("thanh cong");
         }
         //---------------------------------------------//
         public JsonResult GetNxs()

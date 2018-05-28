@@ -18,6 +18,7 @@ function FnNhap($scope, $http) {
       $scope.MaDonHang = '12';
       $scope.MaVt = '12';
       $scope.NgayGhi = new Date().toLocaleDateString();
+      
       var item = {
         Id: $scope.Id,
         TenNcc: $scope.TenNcc,
@@ -51,8 +52,16 @@ function FnNhap($scope, $http) {
     //  MaVt: $scope.MaVt[i]
     //};
   }
+  $scope.GetMaDh = function() {
+    var url = 'Nhap/GetMaDh';
+    $http.post(url).then(function (e) {
+      $scope.MaDonHang1 = e.data.result;
+      $scope.MaDonHang = e.data.result;
+    });
+  }
+  $scope.GetMaDh();
   $scope.tong = function() {
-    console.log('toi day '+$scope.l.length);
+    //console.log('toi day '+$scope.l.length);
     $scope.sum = 0;
     for (var i = 0; i < $scope.l.length; i++) {
       $scope.sum += $scope.l[i].SoLuong * $scope.l[i].DonGiaMua;
@@ -88,12 +97,13 @@ function FnNhap($scope, $http) {
     var url = 'Nhap/CreateOrEdit/';
     var request = [];
     for (var i = 0; i < $scope.l.length; i++) {
+      $scope.l[i].MaDonHang = $scope.MaDonHang1;
       request.push($scope.l[i]);
     }
     console.log(JSON.stringify(request));
     $http.post(url, request).then(function (e) {
       //var dt = e.data.result;
-      //console.log(JSON.stringify(dt));
+      console.log(e);
     });
     
   };
