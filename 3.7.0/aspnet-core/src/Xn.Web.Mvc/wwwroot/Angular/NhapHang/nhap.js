@@ -59,7 +59,7 @@ function FnNhap($scope, $http) {
       $scope.MaDonHang = e.data.result;
     });
   }
-  $scope.GetMaDh();
+
   $scope.tong = function() {
     //console.log('toi day '+$scope.l.length);
     $scope.sum = 0;
@@ -79,6 +79,18 @@ function FnNhap($scope, $http) {
     $http.post(url).then(function(e) {
       var dt = e.data.result;
       //console.log(JSON.stringify(dt));
+      $scope.getTenHg = [];
+      var dupes = {};
+      $.each(dt, function (i, el) {
+
+        if (!dupes[el.tenHang]) {
+          dupes[el.tenHang] = true;
+          $scope.getTenHg.push(el.tenHang);
+        }
+       
+      });
+      $scope.getTenHg.push('123');
+      console.log(JSON.stringify($scope.getTenHg));
     });
   };
   $scope.onChange = function() {  
@@ -108,18 +120,8 @@ function FnNhap($scope, $http) {
     
   };
   function init() {
-   
-    //if (typeof (Storage) !== "undefined") {
-    //  // Store
-    //  $scope.gWidth = '148mm';
-    //  $scope.gHeight = '210mm';
-    //  localStorage.setItem("w", $scope.gWidth);
-    //  localStorage.setItem("h", $scope.gHeight);
-    //  // Retrieve
-    //  console.log(localStorage.getItem("w"));
-    //} else {
-    //  document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage...";
-    //}
+    $scope.names = ["Emil", "Tobias", "Linus"];
+    $scope.GetMaDh();
     $scope.getAll();
     $scope.getL();
     $scope.GetTenNcc();

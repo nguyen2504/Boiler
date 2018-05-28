@@ -664,24 +664,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\nguye\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\XnBoiler\\3.7.0\\aspnet-core\\SqlQuery\\SqlQuery.csproj",
+      "projectUniqueName": "D:\\XnBoiler\\Boiler\\3.7.0\\aspnet-core\\SqlQuery\\SqlQuery.csproj",
       "projectName": "SqlQuery",
-      "projectPath": "D:\\XnBoiler\\3.7.0\\aspnet-core\\SqlQuery\\SqlQuery.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\XnBoiler\\3.7.0\\aspnet-core\\SqlQuery\\obj\\",
+      "projectPath": "D:\\XnBoiler\\Boiler\\3.7.0\\aspnet-core\\SqlQuery\\SqlQuery.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "D:\\XnBoiler\\Boiler\\3.7.0\\aspnet-core\\SqlQuery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\XnBoiler\\3.7.0\\aspnet-core\\NuGet.Config",
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\XnBoiler\\Boiler\\3.7.0\\aspnet-core\\NuGet.Config",
+        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

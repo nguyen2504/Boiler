@@ -69,3 +69,12 @@ D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.Asse
 D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
 D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
 D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb

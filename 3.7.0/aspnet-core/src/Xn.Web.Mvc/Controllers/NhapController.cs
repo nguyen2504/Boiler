@@ -71,10 +71,14 @@ namespace Xn.Web.Controllers
         [HttpPost]
         public IActionResult CreateOrEdit([FromBody] List<NhapHangEntity> entity  )
         {
+            var id = _user.AbpSession.UserId;
+            var name = _user.Users.FirstOrDefault(j => j.Id.Equals(id))?.Name;
             foreach (var w in entity)
             {
-                w.IdNv = 0;
-                w.TenNv = "Test";
+                w.IdCty = IdCty();
+                w.IdNv = (int) id;
+                w.TenNv = name;
+                w.NgayGhi = DateTime.Now.ToString();
                 var ouput = w.MapTo<QlNcc>();
                 ouput.NgayGhi = DateTime.Now;
                 _nhap.Create(ouput);

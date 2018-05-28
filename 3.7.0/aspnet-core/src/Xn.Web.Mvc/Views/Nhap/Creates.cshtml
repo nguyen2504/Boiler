@@ -11,7 +11,7 @@
         </table>
     </div>
     <!-- Trigger the modal with a button -->
-    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myNhap">Open Modal</button>
+    <button type="button" style="width: 100%" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myNhap">Open Modal</button>
 
     <!-- Modal -->
     <div id="myNhap" class="modal fade " role="dialog">
@@ -42,7 +42,13 @@
                             <tbody>
                             <tr ng-repeat="w in l">
                                 <td>{{$index}}</td>
-                                <td><input type="text" ng-model="w.TenHang" required=""/></td>
+                                <td>
+                                    @*<input type="text" ng-model="w.TenHang" required=""/>*@
+                                    <input list="browsers" ng-model="w.TenHang" name="browser">
+                                    <datalist id="browsers">
+                                        <option ng-repeat="x in names" value="{{x}}"></option>
+                                       </datalist>
+                                </td>
                                 <td> <input style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()"/></td>
                                 <td ><input style="width: 75px" type="text" ng-model="w.Dvt" required=""/></td>
                                 <td><input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()"/></td>
