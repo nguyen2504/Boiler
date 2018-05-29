@@ -1547,6 +1547,8 @@ namespace Xn.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
+                    b.Property<double>("Conlai");
+
                     b.Property<int>("IdCty");
 
                     b.Property<bool>("IsActive");

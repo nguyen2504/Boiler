@@ -80,17 +80,32 @@ namespace Xn.Web.Controllers
         {
             var id = _user.AbpSession.UserId;
             var name = _user.Users.FirstOrDefault(j => j.Id.Equals(id))?.Name;
+            int dem = 0;
             foreach (var w in entity)
             {
-                w.IdCty = IdCty();
-                w.IdNv = (int) id;
-                w.TenNv = name;
-                w.NgayGhi = DateTime.Now.ToString();
-                var ouput = w.MapTo<QlNcc>();
-                ouput.NgayGhi = DateTime.Now;
-                _nhap.Create(ouput);
+                if (dem++ < entity.Count - 1)
+                {
+                    w.IdCty = IdCty();
+                    w.IdNv = (int)id;
+                    w.TenNv = name;
+                    w.NgayGhi = DateTime.Now.ToString();
+                    var ouput = w.MapTo<QlNcc>();
+                    ouput.NgayGhi = DateTime.Now;
+                    _nhap.Create(ouput);
+                }
             }
-
+            var qlnx= new QlXuatNhap()
+            {
+                MaDonHang = entity[0].MaDonHang,
+                IsActive = true,
+                IdCty = IdCty(),
+                Loai = "Nhap",
+                ThanhTien = entity[entity.Count - 1].SoLuong,
+                ThanhToan = entity[entity.Count - 1].DonGiaMua,
+                Conlai = entity[entity.Count - 1].SoLuong - entity[entity.Count - 1].DonGiaMua,
+                NgayGhi = DateTime.Now
+            };
+            _qlNx.Create(qlnx);
             return Content("thanh cong");
         }
         //---------------------------------------------//

@@ -115,3 +115,16 @@ D:\XnBoiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.csproj.CopyComplete
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.dll
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\bin\Debug\netcoreapp2.0\Xn.Core.deps.json
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\bin\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\bin\Debug\netcoreapp2.0\Xn.Core.pdb
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.csprojResolveAssemblyReference.cache
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.csproj.CoreCompileInputs.cache
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.AssemblyInfoInputs.cache
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.AssemblyInfo.cs
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.csproj.CopyComplete
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.dll
+D:\Boiler\Boiler\3.7.0\aspnet-core\src\Xn.Core\obj\Debug\netcoreapp2.0\Xn.Core.pdb

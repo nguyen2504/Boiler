@@ -7,18 +7,7 @@ function FnNhap($scope, $http) {
   $scope.n = 2;
   $scope.getL = function() {
     for (var i = 0; i < $scope.n; i++) {
-      //$scope.Id = 0;
-      //$scope.TenNcc = "ncc";
-      //$scope.IdNcc = '1';
-      //$scope.TenHang = 'gg';
-      //$scope.SoLuong = 12;
-      //$scope.DonGiaMua = 34;
-      //$scope.Dvt = '123';
-      //$scope.IdCty = 0;
-      //$scope.MaDonHang = '12';
-      //$scope.MaVt = '12';
-      //$scope.NgayGhi = new Date().toLocaleDateString();
-      
+     
       var item = {
         Id: $scope.Id,
         TenNcc: $scope.TenNcc,
@@ -36,21 +25,7 @@ function FnNhap($scope, $http) {
       $scope.l.push(item);
     }
     $scope.tong();
-    //console.log(JSON.stringify($scope.l));
-    //var item1 = {
-    //  Id: $scope.Id[i],
-    //  TenNcc: $scope.TenNcc[i],
-    //  IdNcc: $scope.IdNcc[i],
-    //  TenHang: $scope.TenHang[i],
-    //  SoLuong: $scope.SoLuong[i],
-    //  DonGiaMua: $scope.DonGiaMua[i],
-    //  Dvt: $scope.Dvt[i],
-    //  NgayGhi: $scope.NgayGhi[i],
-    //  IdCty: $scope.IdCty,
-    //  MaDonHang: $scope.MaDonHang,
-    //  IsActive: 1,
-    //  MaVt: $scope.MaVt[i]
-    //};
+   
   }
   $scope.GetMaDh = function() {
     var url = 'Nhap/GetMaDh';
@@ -61,11 +36,12 @@ function FnNhap($scope, $http) {
   }
 
   $scope.tong = function() {
-    //console.log('toi day '+$scope.l.length);
+  
     $scope.sum = 0;
     for (var i = 0; i < $scope.l.length; i++) {
       $scope.sum += $scope.l[i].SoLuong * $scope.l[i].DonGiaMua;
     }
+    $scope.conlai = $scope.sum - $scope.thanhtoan;
   }
   $scope.GetTenNcc = function () {
     var url = 'Nhap/GetTenNcc';
@@ -118,6 +94,23 @@ function FnNhap($scope, $http) {
       $scope.l[i].MaDonHang = $scope.MaDonHang1;
       request.push($scope.l[i]);
     }
+    var item2 = {
+      //Id: $scope.conlai,
+      //TenNcc: '',
+      //IdNcc:'',
+      //TenHang: "",
+      SoLuong: $scope.sum,
+      DonGiaMua: $scope.thanhtoan,
+      Dvt: 'dvt',
+      MaDonHang: $scope.MaDonHang1,
+      IsActive: 1,
+      //NgayGhi: $scope.NgayGhi,
+      //IdCty: $scope.IdCty,
+     
+     
+      //MaVt: '00'
+    };
+    request.push(item2);
     console.log(JSON.stringify(request));
     $http.post(url, request).then(function (e) {
       //var dt = e.data.result;
@@ -125,12 +118,22 @@ function FnNhap($scope, $http) {
     });
     
   };
+
+  //-------------------- danh sach nhap xuat
+  $scope.getNhapXuat = function() {
+    var url = 'Nhap/GetNxs/';
+    $http.post(url).then(function (e) {
+      $scope.listnhap = e.data.result;
+   
+    });
+  }
   function init() {
     $scope.names = ["Emil", "Tobias", "Linus"];
     $scope.GetMaDh();
     $scope.getAll();
     $scope.getL();
     $scope.GetTenNcc();
+    $scope.getNhapXuat();
   }
   init();
 };

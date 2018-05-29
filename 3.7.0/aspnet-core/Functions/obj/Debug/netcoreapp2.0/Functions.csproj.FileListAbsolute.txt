@@ -61,3 +61,12 @@ D:\XnBoiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.AssemblyInfo.cs
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.dll
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.pdb
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\bin\Debug\netcoreapp2.0\Functions.deps.json
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\bin\Debug\netcoreapp2.0\Functions.dll
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\bin\Debug\netcoreapp2.0\Functions.pdb
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.csprojResolveAssemblyReference.cache
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.csproj.CoreCompileInputs.cache
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.AssemblyInfoInputs.cache
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.AssemblyInfo.cs
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.dll
+D:\Boiler\Boiler\3.7.0\aspnet-core\Functions\obj\Debug\netcoreapp2.0\Functions.pdb
