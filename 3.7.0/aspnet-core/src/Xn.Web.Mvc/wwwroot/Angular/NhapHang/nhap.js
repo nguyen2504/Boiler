@@ -7,17 +7,17 @@ function FnNhap($scope, $http) {
   $scope.n = 2;
   $scope.getL = function() {
     for (var i = 0; i < $scope.n; i++) {
-      $scope.Id = 0;
-      $scope.TenNcc = "ncc";
-      $scope.IdNcc = '1';
-      $scope.TenHang = 'gg';
-      $scope.SoLuong = 12;
-      $scope.DonGiaMua = 34;
-      $scope.Dvt = '123';
-      $scope.IdCty = 0;
-      $scope.MaDonHang = '12';
-      $scope.MaVt = '12';
-      $scope.NgayGhi = new Date().toLocaleDateString();
+      //$scope.Id = 0;
+      //$scope.TenNcc = "ncc";
+      //$scope.IdNcc = '1';
+      //$scope.TenHang = 'gg';
+      //$scope.SoLuong = 12;
+      //$scope.DonGiaMua = 34;
+      //$scope.Dvt = '123';
+      //$scope.IdCty = 0;
+      //$scope.MaDonHang = '12';
+      //$scope.MaVt = '12';
+      //$scope.NgayGhi = new Date().toLocaleDateString();
       
       var item = {
         Id: $scope.Id,
@@ -80,6 +80,7 @@ function FnNhap($scope, $http) {
       var dt = e.data.result;
       //console.log(JSON.stringify(dt));
       $scope.getTenHg = [];
+      $scope.dvts = [];
       var dupes = {};
       $.each(dt, function (i, el) {
 
@@ -87,10 +88,15 @@ function FnNhap($scope, $http) {
           dupes[el.tenHang] = true;
           $scope.getTenHg.push(el.tenHang);
         }
+        if (!dupes[el.dvt])
+        {
+          dupes[el.dvt] = true;
+          $scope.dvts.push(el.dvt);
+        }
        
       });
-      $scope.getTenHg.push('123');
-      console.log(JSON.stringify($scope.getTenHg));
+    
+      console.log(JSON.stringify($scope.dvts));
     });
   };
   $scope.onChange = function() {  

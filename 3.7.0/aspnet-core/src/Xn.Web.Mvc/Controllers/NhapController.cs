@@ -59,14 +59,21 @@ namespace Xn.Web.Controllers
             
             var t = _nhap.GetAll(IdCty()).ToList()
                 .Where(j => j.NgayGhi.Month.Equals(date.Month) && j.NgayGhi.Year.Equals(date.Year)).ToList();
-            if (t.Count() < 10) madh += "0" + t.Count() + moth + date.Year.ToString()[2] + date.Year.ToString()[3];
+            if (t.Count() < 10)
+            {
+                madh += "0" + (t.Count());}
+            else
+            {
+                madh +=(t.Count());
+            }
+            ;
             if (name != null)
             {
                 madh += name.Name[0];
             }
           
 
-            return  Json(madh);
+            return  Json(madh+moth + date.Year.ToString()[2] + date.Year.ToString()[3]);
         }
         [HttpPost]
         public IActionResult CreateOrEdit([FromBody] List<NhapHangEntity> entity  )
