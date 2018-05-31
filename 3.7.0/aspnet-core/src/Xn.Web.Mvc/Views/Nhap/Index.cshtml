@@ -4,41 +4,43 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <script type="text/javascript" src="~/Angular/NhapHang/nhap.js"></script>
+<!-- Trigger the modal with a button -->
+<button type="button" style="width: 100%" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myNhap">Open Modal</button>
+<br/>
 <div align="center" class="ab_center" style="width: {{gWidth}};height:{{gHeight}};">
-    <label for="giay"> Chọn Giấy</label>
+    <label for="giay" > Chọn Giấy</label>
     <select id="giay" ng-model="chonGiay" ng-change="onChange()">
         <option value="5">A5 (Dọc)</option>
         <option value="4">A4 (Dọc)</option>
     </select>
-    <table class="table" style="background: #27f305">
+    <table  datatable="ng" dt-options="showCase.dtOptions" dt-column-defs="showCase.dtColumnDefs" class="row-border hover" >
         <thead>
-        <tr>
-            <th>#</th>
-            <th>Đơn hàng</th>
-            <th>Thành Tiền</th>
-            <th>Thanh Toán</th>
-            <th>Còn lại</th>
-            <th>Ngày Ghi</th>
-            <th>Loại</th>
-            <th>Chi Tiết</th>
-        </tr>
+            <tr>
+                <th>#</th>
+                <th>Đơn hàng</th>
+                <th>Thành Tiền</th>
+                <th>Thanh Toán</th>
+                <th>Còn lại</th>
+                <th>Ngày Ghi</th>
+                <th>Loại</th>
+                <th>Chi Tiết</th>
+            </tr>
         </thead>
         <tbody>
-        <tr ng-repeat="q in listnhap">
-            <td>{{$index+1}}</td>
-            <td>{{q.maDonHang}}</td>
-            <td>{{q.thanhTien|number}}</td>
-            <td>{{q.thanhToan|number}}</td>
-            <td>{{q.conlai|number}}</td>
-            <td>{{q.ngayGhi|date :"dd/MM/yy h:mm a"}}</td>
-            <td>{{q.loai}}</td>
-            <td><i class="material-icons" style="cursor: pointer">details</i></td>
-        </tr>
+            <tr ng-repeat="q in listnhap">
+                <td>{{$index+1}}</td>
+                <td>{{q.maDonHang}}</td>
+                <td>{{q.thanhTien|number}}</td>
+                <td>{{q.thanhToan|number}}</td>
+                <td>{{q.conlai|number}}</td>
+                <td>{{q.ngayGhi|date :"dd/MM/yy h:mm a"}}</td>
+                <td>{{q.loai}}</td>
+                <td><i class="material-icons" style="cursor: pointer">details</i></td>
+            </tr>
         </tbody>
-        
+
     </table>
 </div>
-<!-- Trigger the modal with a button -->
-<button type="button" style="width: 100%" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myNhap">Open Modal</button>
+
 @await Html.PartialAsync("Creates")
 

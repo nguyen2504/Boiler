@@ -4,7 +4,8 @@
 
 function FnNhap($scope, $http) {
   $scope.l = [];
-  $scope.n = 2;
+  $scope.n = 10;
+  $scope.nccs = [];
   $scope.getL = function() {
     for (var i = 0; i < $scope.n; i++) {
      
@@ -46,8 +47,7 @@ function FnNhap($scope, $http) {
   $scope.GetTenNcc = function () {
     var url = 'Nhap/GetTenNcc';
     $http.post(url).then(function (e) {
-           var dt = e.data.result;
-     console.log(JSON.stringify(dt));
+      $scope.nccs = e.data.result;
     });
   };
   $scope.getAll = function() {
@@ -96,7 +96,7 @@ function FnNhap($scope, $http) {
     }
     var item2 = {
       //Id: $scope.conlai,
-      //TenNcc: '',
+      TenNcc: $scope.TenNcc,
       //IdNcc:'',
       //TenHang: "",
       SoLuong: $scope.sum,
@@ -115,6 +115,7 @@ function FnNhap($scope, $http) {
     $http.post(url, request).then(function (e) {
       //var dt = e.data.result;
       console.log(e);
+      $scope.getNhapXuat();
     });
     
   };
@@ -128,6 +129,12 @@ function FnNhap($scope, $http) {
     });
   }
   function init() {
+    if (typeof(Storage) !== "undefined") {
+      $scope.gWidth = localStorage.getItem("w");
+      $scope.gHeight = localStorage.getItem("h");
+    } else {
+      // Sorry! No Web Storage support..
+    }
     $scope.names = ["Emil", "Tobias", "Linus"];
     $scope.GetMaDh();
     $scope.getAll();

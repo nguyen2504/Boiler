@@ -15,7 +15,15 @@
                     </div>
                     <div class="modal-body">
                         <div>
-                            <p>Mã Đơn Hàng: <input type="text" ng-model="MaDonHang1"/></p>
+                            <p>Mã Đơn Hàng: <input type="text" ng-model="MaDonHang1" style="margin-left: 10px;width: 100px" required=""/></p>
+                            <p style="width: 45%">Nhà Cung Cấp: 
+                                <select style="margin-left: 10px;float: right" class="form-inline" ng-model="TenNcc"  required="">
+                                    <option ng-repeat="j in nccs" >{{j}}</option>
+                                </select>
+                                <a href="@Url.Action("Index","Ncc")" class="btn btn-primary btn-circle waves-effect waves-circle waves-float pull-right" >
+                                    <i class="material-icons">add</i>
+                                </a>
+                                </p>
                         </div>
                         <table class="table">
                             <thead>
@@ -29,25 +37,28 @@
                             </tr>
                             </thead>
                             <tbody>
-                            <tr ng-repeat="w in l">
-                                <td>{{$index}}</td>
-                                <td>
-                                    @*<input type="text" ng-model="w.TenHang" required=""/>*@
-                                    <input list="browsers" ng-model="w.TenHang" name="browser" placeholder="Chọn Tên Mặt Hàng">
-                                    <datalist id="browsers">
-                                        <option ng-repeat="x in getTenHg" value="{{x}}" ></option>
-                                       </datalist>
-                                </td>
-                                <td> <input style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()"/></td>
-                                <td >
-                                    <input style="width: 85px" type="text" list="dvt" ng-model="w.Dvt" required="" placeholder="Chọn DVT"/>
-                                    <datalist id="dvt">
-                                        <option ng-repeat="x in dvts" value="{{x}}"></option>
-                                    </datalist>
-                                </td>
-                                <td><input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()"/></td>
-                                <td style="text-align: left">{{w.SoLuong*w.DonGiaMua|number}}&nbsp;VND</td>
-                            </tr>
+                                <tr ng-repeat="w in l">
+                                    <td>{{$index}}</td>
+                                  
+                                    <td>
+                                        @*<input type="text" ng-model="w.TenHang" required=""/>*@
+                                        <input list="browsers" ng-model="w.TenHang" name="browser" placeholder="Chọn Tên Mặt Hàng">
+                                        <datalist id="browsers">
+                                            <option ng-repeat="x in getTenHg" value="{{x}}"></option>
+                                        </datalist>
+                                    </td>
+                                    <td> <input style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()" /></td>
+                                    <td>
+                                        <input style="width: 85px" type="text" list="dvt" ng-model="w.Dvt" required="" placeholder="Chọn DVT" />
+                                        <datalist id="dvt">
+                                            <option ng-repeat="x in dvts" value="{{x}}"></option>
+                                        </datalist>
+                                    </td>
+                                    <td>
+                                        <input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()" />
+                                    </td>
+                                    <td style="text-align: left">{{w.SoLuong*w.DonGiaMua|number}}&nbsp;VND</td>
+                                </tr>
                             <tr>
                                 <td colspan="3"></td>
                                 <td colspan="2"><b style="text-align: right">Tổng</b></td>
@@ -81,7 +92,7 @@
     {
         /*height:300px;
         width:300px;*/
-        background-color:#27f305;
+        /*background-color:#27f305;*/
         position:relative;
         margin:auto;
         top:0;

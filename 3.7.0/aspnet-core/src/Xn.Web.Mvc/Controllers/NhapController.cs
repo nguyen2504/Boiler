@@ -89,6 +89,7 @@ namespace Xn.Web.Controllers
                     w.IdNv = (int)id;
                     w.TenNv = name;
                     w.NgayGhi = DateTime.Now.ToString();
+                    w.TenNcc = entity[entity.Count - 1].TenNcc;
                     var ouput = w.MapTo<QlNcc>();
                     ouput.NgayGhi = DateTime.Now;
                     _nhap.Create(ouput);
