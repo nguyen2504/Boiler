@@ -22,6 +22,17 @@ namespace Xn.Services
             return _repository.GetAllList(j=>j.IdCty==idcty).OrderByDescending(j=>j.Id);
         }
 
+        public IEnumerable<QlXuatNhap> GetAllList()
+        {
+            return _repository.GetAllList();
+        }
+
+        public IEnumerable<QlXuatNhap> GetAllListGetIdcty_madh(int idcty, string madh)
+        {
+            var l = _repository.GetAllList().FindAll(j => j.MaDonHang.Equals(madh) && j.IdCty.Equals(idcty));
+            return l;
+        }
+
         public async Task<QlXuatNhap> GetById(int id)
         {
             return await _repository.FirstOrDefaultAsync(j => j.Id.Equals(id));
@@ -46,6 +57,12 @@ namespace Xn.Services
         {
             entity.IsActive = false;
             _repository.Update(entity);
+        }
+
+        public QlXuatNhap GetNhap(int idcty, string madh)
+        {
+            var l = _repository.GetAllList().Find(j => j.MaDonHang.Equals(madh) && j.IdCty.Equals(idcty));
+            return l;
         }
     }
 }

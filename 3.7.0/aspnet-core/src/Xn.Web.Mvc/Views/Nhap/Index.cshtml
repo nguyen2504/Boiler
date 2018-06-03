@@ -5,8 +5,9 @@
 }
 <script type="text/javascript" src="~/Angular/NhapHang/nhap.js"></script>
 <!-- Trigger the modal with a button -->
-<button type="button" style="width: 100%" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myNhap">Open Modal</button>
+<button type="button" style="width: 100%" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myNhap">Thêm Đơn Hàng</button>
 <br/>
+
 <div align="center" class="ab_center" style="width: {{gWidth}};height:{{gHeight}};">
     <label for="giay" > Chọn Giấy</label>
     <select id="giay" ng-model="chonGiay" ng-change="onChange()">
@@ -26,7 +27,7 @@
                 <th>Chi Tiết</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody class="tbdy">
             <tr ng-repeat="q in listnhap">
                 <td>{{$index+1}}</td>
                 <td>{{q.maDonHang}}</td>
@@ -35,7 +36,15 @@
                 <td>{{q.conlai|number}}</td>
                 <td>{{q.ngayGhi|date :"dd/MM/yy h:mm a"}}</td>
                 <td>{{q.loai}}</td>
-                <td><i class="material-icons" style="cursor: pointer">details</i></td>
+                <td class="dropdown" style="float: right">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        <i class="material-icons">menu</i>
+                    </a>
+                    <ul class="dropdown-menu pull-right">
+                        <li><a href="#" ng-click="onEdit(q.maDonHang)" data-toggle="modal" data-target="#myNhap" class="waves-effect waves-block edit-tenant" data-tenant-id="1" data-toggle="modal" data-target="#TenantEditModal"><i class="material-icons">edit</i>Edit</a></li>
+                        <li><a href="#" ng-click="onDelete(q.maDonHang)" title="Cẩn thận khi xóa bạn không thể phục hồi lại" class="waves-effect waves-block delete-tenant" data-tenant-id="1" data-tenancy-name="Default"><i class="material-icons">delete_sweep</i>Delete</a></li>
+                    </ul>
+                </td>
             </tr>
         </tbody>
 
@@ -44,3 +53,9 @@
 
 @await Html.PartialAsync("Creates")
 
+<style>
+    .tbdy tr td {
+        padding-top: 1px !important;
+        padding-bottom: 1px!important
+    }
+</style>

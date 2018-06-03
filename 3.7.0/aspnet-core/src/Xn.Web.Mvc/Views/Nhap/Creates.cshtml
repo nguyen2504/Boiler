@@ -1,103 +1,121 @@
-﻿<div>
-    
-    
+﻿    <!-- Modal -->
+<div id="myNhap" class="modal fade " role="dialog">
 
-    <!-- Modal -->
-    <div id="myNhap" class="modal fade " role="dialog">
-        <form  role="form" name="form" ng-submit="onSubmit()">
-            <div class="modal-dialog modal-lg">
+    <form role="form" name="form" ng-submit="onSubmit()">
+        <div class="modal-dialog modal-lg">
 
-                <!-- Modal content-->
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h4 class="modal-title">Nhập Hàng</h4>
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">{{nhaphang}}</h4>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <table>
+                            <tbody>
+                            <tr>
+                                <td>Mã Đơn Hàng</td>
+                                <td><input type="text" ng-model="MaDonHang1" required="" /></td>
+                            </tr>
+                            <tr>
+                                <td>Ngày Ghi</td>
+                                <td><input type="date" ng-model="NgayGhi"  /></td>
+                            </tr>
+                                <tr>
+                                    <td>Nhà Cung Cấp</td>
+                                    <td>
+                                        <input list="lncc" class="form-inline" ng-model="TenNcc" name="TenNcc" placeholder="Chọn Nhà Cung Cấp">
+                                        <datalist id="lncc">
+                                            <option ng-repeat="x in nccs" value="{{x}}"></option>
+                                        </datalist>
+                                        <a href="@Url.Action("Index", "Ncc")" class="btn btn-sm btn-primary waves-effect waves-float" title="Thêm nhà cung cấp">
+                                            Thêm nhà cung cấp
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Lượng Hàng Nhập</td>
+                                    <td><input ng-model="n" type="number" ng-change="onChoise()" placeholder="Số Lượng Hàng" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+
                     </div>
-                    <div class="modal-body">
-                        <div>
-                            <p>Mã Đơn Hàng: <input type="text" ng-model="MaDonHang1" style="margin-left: 10px;width: 100px" required=""/></p>
-                            <p style="width: 45%">Nhà Cung Cấp: 
-                                <select style="margin-left: 10px;float: right" class="form-inline" ng-model="TenNcc"  required="">
-                                    <option ng-repeat="j in nccs" >{{j}}</option>
-                                </select>
-                                <a href="@Url.Action("Index","Ncc")" class="btn btn-primary btn-circle waves-effect waves-circle waves-float pull-right" >
-                                    <i class="material-icons">add</i>
-                                </a>
-                                </p>
-                        </div>
-                        <table class="table">
-                            <thead>
+                    <table class="table">
+                        <thead>
                             <tr>
                                 <th>#</th>
                                 <th>Tên Hàng</th>
-                                <th >Số Lượng</th>
+                                <th>Số Lượng</th>
                                 <th>ĐVT</th>
                                 <th>Đơn Giá</th>
                                 <th>Thành Tiền</th>
+                                <th> Xóa</th>
                             </tr>
-                            </thead>
-                            <tbody>
-                                <tr ng-repeat="w in l">
-                                    <td>{{$index}}</td>
-                                  
-                                    <td>
-                                        @*<input type="text" ng-model="w.TenHang" required=""/>*@
-                                        <input list="browsers" ng-model="w.TenHang" name="browser" placeholder="Chọn Tên Mặt Hàng">
-                                        <datalist id="browsers">
-                                            <option ng-repeat="x in getTenHg" value="{{x}}"></option>
-                                        </datalist>
-                                    </td>
-                                    <td> <input style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()" /></td>
-                                    <td>
-                                        <input style="width: 85px" type="text" list="dvt" ng-model="w.Dvt" required="" placeholder="Chọn DVT" />
-                                        <datalist id="dvt">
-                                            <option ng-repeat="x in dvts" value="{{x}}"></option>
-                                        </datalist>
-                                    </td>
-                                    <td>
-                                        <input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()" />
-                                    </td>
-                                    <td style="text-align: left">{{w.SoLuong*w.DonGiaMua|number}}&nbsp;VND</td>
-                                </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="w in l">
+                                <td>{{$index+1}}</td>
+
+                                <td>
+                                    @*<input type="text" ng-model="w.TenHang" required=""/>*@
+                                    <input list="browsers" ng-model="w.TenHang" name="browser" placeholder="Chọn Tên Mặt Hàng">
+                                    <datalist id="browsers">
+                                        <option ng-repeat="x in getTenHg" value="{{x}}"></option>
+                                    </datalist>
+                                </td>
+                                <td> <input style="width: 50px" type="number" ng-model="w.SoLuong" required="" ng-change="tong()" /></td>
+                                <td>
+                                    <input style="width: 85px" type="text" list="dvt" ng-model="w.Dvt" required="" placeholder="Chọn DVT" />
+                                    <datalist id="dvt">
+                                        <option ng-repeat="x in dvts" value="{{x}}"></option>
+                                    </datalist>
+                                </td>
+                                <td>
+                                    <input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()" />
+                                </td>
+                                <td style="text-align: left">{{w.SoLuong*w.DonGiaMua|number}}&nbsp;VND</td>
+                                <td><button class="btn btn-primary waves-effect" ng-click="xoa($index)">Xóa</button></td>
+                            </tr>
                             <tr>
                                 <td colspan="3"></td>
                                 <td colspan="2"><b style="text-align: right">Tổng</b></td>
-                                <td>{{sum|number }}&nbsp;VND</td>
+                                <td>{{sum|number }}</td>
                             </tr>
                             <tr>
                                 <td colspan="3"></td>
                                 <td colspan="2"><b style="text-align: right">Thanh Toán</b></td>
-                                <td><input type="number" ng-change="tong()" ng-model="thanhtoan"/></td>
+                                <td><input type="number" ng-change="tong()" ng-model="thanhtoan" /></td>
                             </tr>
                             <tr>
                                 <td colspan="3"></td>
                                 <td colspan="2"><b style="text-align: right">Còn Lại</b></td>
-                                <td>{{conlai}}</td>
+                                <td>{{conlai|number}}</td>
                             </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="submit" class="btn btn-primary waves-effect" >Submit</button>
-                        <button type="button" class="btn btn-danger waves-effect" data-dismiss="modal">Close</button>
-                    </div>
+                        </tbody>
+                    </table>
                 </div>
-
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary waves-effect">{{them}}</button>
+                    <button type="button" class="btn btn-danger waves-effect" data-dismiss="modal">Close</button>
+                </div>
             </div>
-        </form>
-    </div>
+
+        </div>
+    </form>
 </div>
 <style>
-    .ab_center
-    {
+    .ab_center {
         /*height:300px;
         width:300px;*/
         /*background-color:#27f305;*/
-        position:relative;
-        margin:auto;
-        top:0;
-        left:0;
-        right:0;
-        bottom:0;
+        position: relative;
+        margin: auto;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
     }
 </style>
