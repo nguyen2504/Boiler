@@ -63,10 +63,10 @@ namespace Xn.Web.Controllers
                 .Where(j => j.NgayGhi.Month.Equals(date.Month) && j.NgayGhi.Year.Equals(date.Year)).ToList();
             if (t.Count() < 10)
             {
-                madh += "0" + (t.Count());}
+                madh += "0" + (t.Count()+1);}
             else
             {
-                madh +=(t.Count());
+                madh +=(t.Count()+1);
             }
             ;
             if (name != null)
@@ -81,7 +81,7 @@ namespace Xn.Web.Controllers
         public IActionResult CreateOrEdit([FromBody] List<NhapHangEntity> entity  )
         {
             var id = _user.AbpSession.UserId;
-            var name = _user.Users.FirstOrDefault(j => j.Id.Equals(id))?.Name;
+            var name = _user.Users.FirstOrDefault(j => j.Id.Equals(id))?.FullName;
             int dem = 0;
             if (entity[0].Id == 0)
             {
@@ -125,7 +125,11 @@ namespace Xn.Web.Controllers
             for (int i = 0; i < entity.Count-1; i++)
             {
                 var t = entity[i].MapTo<QlNcc>();
-
+                //t.MaDonHang = entity[i].MaDonHang;
+                t.IdNv = IdCty();
+                t.TenNcc = entity[entity.Count - 1].TenNcc;
+                t.TenNv = _user.Users.SingleOrDefault(j =>j.Id.Equals(_user.AbpSession.UserId)).FullName;
+                t.NgayGhi = Convert.ToDateTime(entity[i].NgayGhi);
                 th.Add(t);
             }
             _nhap.Update(th);
@@ -186,8 +190,9 @@ namespace Xn.Web.Controllers
         public IActionResult Edit1(string mdh)
         {
             var kt = _nhap.GetAll(IdCty()).Where(j => j.MaDonHang.Equals(mdh)).ToList();
+        
             var qlnx = _qlNx.GetNhap(IdCty(), mdh);
-
+            //var kt1 = _nhap.GetAll(IdCty());
             if (qlnx != null)
             {
                 var t = new QlNcc()

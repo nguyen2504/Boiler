@@ -120,7 +120,7 @@ namespace Xn.Web.Controllers
                 _companyService.Create(company);
             }
 
-            return View("Index");
+            return RedirectToAction("Index","Home");
         }
     }
 }

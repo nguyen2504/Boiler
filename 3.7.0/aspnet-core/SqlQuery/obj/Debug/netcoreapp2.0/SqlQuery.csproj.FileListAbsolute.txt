@@ -16,3 +16,11 @@ D:\Boiler\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.Ass
 D:\Boiler\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.AssemblyInfo.cs
 D:\Boiler\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.dll
 D:\Boiler\Boiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.pdb
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\bin\Debug\netcoreapp2.0\SqlQuery.deps.json
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\bin\Debug\netcoreapp2.0\SqlQuery.dll
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\bin\Debug\netcoreapp2.0\SqlQuery.pdb
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.csproj.CoreCompileInputs.cache
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.AssemblyInfoInputs.cache
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.AssemblyInfo.cs
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.dll
+D:\XnBoiler\3.7.0\aspnet-core\SqlQuery\obj\Debug\netcoreapp2.0\SqlQuery.pdb

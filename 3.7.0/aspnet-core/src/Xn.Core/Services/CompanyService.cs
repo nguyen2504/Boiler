@@ -90,8 +90,15 @@ namespace Xn.Services
 
        public Company GetByIdCty(int idcty)
        {
-           var check = _repository.FirstOrDefault(j => j.IdCty.Equals(idcty));
-           return check;
+           try
+           {
+               var check = _repository.FirstOrDefault(j => j.IdCty.Equals(idcty));
+               return check;
+            }
+           catch (Exception e)
+           {
+               return null;
+           }
         }
 
        public void Delete(string code)

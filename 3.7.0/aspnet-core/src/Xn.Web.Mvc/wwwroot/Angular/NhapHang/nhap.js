@@ -35,8 +35,10 @@ function FnNhap($scope, $http) {
     var url = 'Nhap/GetMaDh';
     $http.post(url).then(function (e) {
       $scope.MaDonHang1 = e.data.result;
-      $scope.MaDonHang = e.data.result;
+      //$scope.MaDonHang = e.data.result;
+      $scope.NgayGhi = new Date();
     });
+   
   }
 
   $scope.tong = function() {
@@ -123,9 +125,9 @@ function FnNhap($scope, $http) {
     //console.log(JSON.stringify(request));
     $http.post(url, request).then(function (e) {
       //var dt = e.data.result;
-      console.log(e);
+      //console.log(e);
       $scope.getNhapXuat();
-      $scope.GetMaDh();
+      //$scope.GetMaDh();
     });
     
   };
@@ -147,7 +149,7 @@ function FnNhap($scope, $http) {
     });
   }
   $scope.onEdit = function (mdh) {
-  $scope.them =  $scope.nhaphang = 'Chỉnh Sữa';
+  $scope.them =  $scope.nhaphang = 'Cập Nhật';
     //console.log(mdh);
     var url = '/Nhap/Edit1?mdh=' + mdh;
     $http.post(url).then(function (e) {
@@ -168,7 +170,7 @@ function FnNhap($scope, $http) {
           IdCty: h.idCty,
           MaDonHang: h.maDonHang,
           IsActive: 1,
-          MaVt: h.aVt
+          MaVt: h.maVt
         };
         $scope.l.push(item);
       }
@@ -179,6 +181,7 @@ function FnNhap($scope, $http) {
       $scope.conlai = ($scope.sum - h1.donGiaMua);
       $scope.n = dt.length - 1;
       $scope.NgayGhi = new Date(dt[0].ngayGhi);
+      $scope.MaDonHang1 = dt[0].maDonHang;
       //console.log(JSON.stringify($scope.l));
     });
   }

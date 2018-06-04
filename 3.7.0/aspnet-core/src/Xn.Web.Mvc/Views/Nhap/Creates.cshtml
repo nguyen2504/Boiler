@@ -20,12 +20,12 @@
                             </tr>
                             <tr>
                                 <td>Ngày Ghi</td>
-                                <td><input type="date" ng-model="NgayGhi"  /></td>
+                                <td><input type="date" ng-model="NgayGhi" required="" /></td>
                             </tr>
                                 <tr>
                                     <td>Nhà Cung Cấp</td>
                                     <td>
-                                        <input list="lncc" class="form-inline" ng-model="TenNcc" name="TenNcc" placeholder="Chọn Nhà Cung Cấp">
+                                        <input list="lncc" class="form-inline" ng-model="TenNcc" name="TenNcc" required="" placeholder="Chọn Nhà Cung Cấp">
                                         <datalist id="lncc">
                                             <option ng-repeat="x in nccs" value="{{x}}"></option>
                                         </datalist>
