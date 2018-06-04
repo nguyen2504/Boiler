@@ -15,7 +15,8 @@ namespace Xn.Services
        Task<QlNcc> Create(QlNcc entity);
        void Creates(IList<QlNcc> entitys);
        void Update(IList<QlNcc> entitys);
-     
+       void UpdateId(QlNcc entity);
+
         void Delete(int idcty);
        void DeleteMaDh(IList<QlNcc> entitys);
         IEnumerable<QlNcc> Search(string ncc, DateTime begin, DateTime end);

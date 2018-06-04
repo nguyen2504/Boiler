@@ -52,7 +52,7 @@
                                 <th>ĐVT</th>
                                 <th>Đơn Giá</th>
                                 <th>Thành Tiền</th>
-                                <th> Xóa</th>
+                                <th> Detail</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -77,7 +77,10 @@
                                     <input style="width: 100px" type="number" ng-model="w.DonGiaMua" required="" ng-change="tong()" />
                                 </td>
                                 <td style="text-align: left">{{w.SoLuong*w.DonGiaMua|number}}&nbsp;VND</td>
-                                <td><button class="btn btn-primary waves-effect" ng-click="xoa($index)">Xóa</button></td>
+                                <td>
+                                    <button class="btn btn-primary waves-effect" ng-click="xoa($index)" ng-if="createi">Xóa</button>
+                                    <button class="btn btn-danger waves-effect" ng-click="xoaedit(w.Id)" ng-if="!createi">Xóa</button>
+                                </td>
                             </tr>
                             <tr>
                                 <td colspan="3"></td>

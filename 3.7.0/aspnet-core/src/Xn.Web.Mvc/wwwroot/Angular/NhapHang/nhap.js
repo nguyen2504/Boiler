@@ -6,6 +6,7 @@ function FnNhap($scope, $http) {
   $scope.l = [];
   $scope.nhaphang = 'Nhập Hàng';
   $scope.them = "Thêm";
+  $scope.createi = true;
   //$scope.n = 10;
   $scope.nccs = [];
   $scope.onChoise = function () {
@@ -38,7 +39,7 @@ function FnNhap($scope, $http) {
       //$scope.MaDonHang = e.data.result;
       $scope.NgayGhi = new Date();
     });
-   
+    $scope.createi = true;
   }
 
   $scope.tong = function() {
@@ -59,6 +60,12 @@ function FnNhap($scope, $http) {
   $scope.xoa = function(index) {
     $scope.l.splice(index, 1);
   };
+  $scope.xoaedit = function(id) {
+    var url = 'Nhap/Xoaedit?id='+id;
+    $http.post(url).then(function (e) {
+     
+    });
+  }
   $scope.getAll = function() {
     var url = 'Nhap/GetAll';
     $http.post(url).then(function(e) {
@@ -104,7 +111,7 @@ function FnNhap($scope, $http) {
         $scope.l[i].MaDonHang = $scope.MaDonHang1;
         request.push($scope.l[i]);}
     }
-    console.log(JSON.stringify($scope.l));
+    //console.log(JSON.stringify($scope.l));
     var item2 = {
       //Id: $scope.conlai,
       TenNcc: $scope.TenNcc,
@@ -127,6 +134,7 @@ function FnNhap($scope, $http) {
       //var dt = e.data.result;
       //console.log(e);
       $scope.getNhapXuat();
+      $scope.createi = true;
       //$scope.GetMaDh();
     });
     
@@ -141,14 +149,15 @@ function FnNhap($scope, $http) {
     });
   }
   $scope.onDelete = function (id) {
-    console.log(id);
+    //console.log(id);
     var url = '/Nhap/OnDelete?id='+id;
     $http.post(url).then(function (e) {
-      console.log(e);
+      //console.log(e);
       $scope.getNhapXuat();
     });
   }
   $scope.onEdit = function (mdh) {
+    $scope.createi = !$scope.createi;
   $scope.them =  $scope.nhaphang = 'Cập Nhật';
     //console.log(mdh);
     var url = '/Nhap/Edit1?mdh=' + mdh;

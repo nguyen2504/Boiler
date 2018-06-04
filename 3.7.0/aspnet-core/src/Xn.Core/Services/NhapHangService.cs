@@ -55,6 +55,11 @@ namespace Xn.Services
            }
        }
 
+       public void UpdateId(QlNcc entity)
+       {
+           _repository.Update(entity);
+        }
+
        public void Update(QlNcc entity)
         {
             _repository.Update(entity);

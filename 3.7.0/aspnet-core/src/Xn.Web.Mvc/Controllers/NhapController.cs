@@ -44,6 +44,25 @@ namespace Xn.Web.Controllers
            return View();
         }
 
+        public IActionResult Xoaedit(int id)
+        {
+            var kt = _nhap.GetById(id);
+            if (kt != null)
+            {
+                kt.IsActive = false;
+                _nhap.UpdateId(kt);
+                var mdh = kt.MaDonHang;
+                var edit = _qlNx.GetAllListGetIdcty_madh(IdCty(), mdh).FirstOrDefault();
+                if (edit != null)
+                {
+                    var tt = edit.ThanhTien - kt.DonGiaMua * kt.SoLuong;
+                    edit.ThanhTien = tt;
+                    edit.Conlai = tt - edit.ThanhToan;
+                    _qlNx.Update(edit);
+                }
+            }
+            return Json("d");
+        }
         public IActionResult GetMaDh()
         {
             var id = _user.AbpSession.UserId;
@@ -189,7 +208,7 @@ namespace Xn.Web.Controllers
         [HttpPost]
         public IActionResult Edit1(string mdh)
         {
-            var kt = _nhap.GetAll(IdCty()).Where(j => j.MaDonHang.Equals(mdh)).ToList();
+            var kt = _nhap.GetAll(IdCty()).Where(j => j.MaDonHang.Equals(mdh) && j.IsActive == true).ToList();
         
             var qlnx = _qlNx.GetNhap(IdCty(), mdh);
             //var kt1 = _nhap.GetAll(IdCty());
