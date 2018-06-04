@@ -60,15 +60,6 @@ D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.Assemb
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
 D:\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
 D:\Boiler\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojResolveAssemblyReference.cache
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csprojAssemblyReference.cache
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
-D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
 D:\XnBoiler\Boiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
@@ -87,3 +78,11 @@ D:\Boiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity
 D:\Boiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
 D:\Boiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
 D:\Boiler\Boiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.deps.json
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.dll
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\bin\Debug\netcoreapp2.0\BaseEntity.pdb
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.csproj.CoreCompileInputs.cache
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfoInputs.cache
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.AssemblyInfo.cs
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.dll
+D:\XnBoiler\3.7.0\aspnet-core\BaseEntity\obj\Debug\netcoreapp2.0\BaseEntity.pdb

@@ -33,9 +33,9 @@ namespace Xn.Services
             return l;
         }
 
-        public async Task<QlXuatNhap> GetById(int id)
+        public  QlXuatNhap GetById(int id)
         {
-            return await _repository.FirstOrDefaultAsync(j => j.Id.Equals(id));
+            return _repository.FirstOrDefault(j => j.Id.Equals(id));
         }
 
         public void Create(QlXuatNhap entity)
@@ -64,5 +64,7 @@ namespace Xn.Services
             var l = _repository.GetAllList().Find(j => j.MaDonHang.Equals(madh) && j.IdCty.Equals(idcty));
             return l;
         }
+
+       
     }
 }

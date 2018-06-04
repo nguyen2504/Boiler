@@ -14,11 +14,12 @@ namespace Xn.Services
        IEnumerable<QlXuatNhap> GetAll(int idcty);
        IEnumerable<QlXuatNhap> GetAllList();
        IEnumerable<QlXuatNhap> GetAllListGetIdcty_madh(int idcty,string madh);
-        Task<QlXuatNhap> GetById(int id);
+       QlXuatNhap GetById(int id);
        void Create(QlXuatNhap entity);
        void Update(QlXuatNhap entity);
        void Delete(int id);
        void DeleteIsActive(QlXuatNhap entity);
        QlXuatNhap GetNhap(int idcty, string madh);
+     
    }
 }

@@ -128,7 +128,20 @@ namespace Xn.Web.Controllers
 
                 th.Add(t);
             }
-            _nhap.Update(entity);
+            _nhap.Update(th);
+            var t1 = entity[entity.Count - 1];
+            if (t1 != null)
+            {
+                var h = _qlNx.GetAll(IdCty()).FirstOrDefault();
+                if (h != null)
+                {
+                    h.IsActive = true;
+                    h.ThanhTien = t1.SoLuong;
+                    h.ThanhToan = t1.DonGiaMua;
+                    h.Conlai = (t1.SoLuong - t1.DonGiaMua);
+                    _qlNx.Update(h);
+                }
+            }
         }
         //---------------------------------------------//
         public JsonResult GetNxs()
@@ -169,22 +182,24 @@ namespace Xn.Web.Controllers
             return Content(id);
         }
 
-        public IActionResult Edit(string mdh)
+        [HttpPost]
+        public IActionResult Edit1(string mdh)
         {
             var kt = _nhap.GetAll(IdCty()).Where(j => j.MaDonHang.Equals(mdh)).ToList();
             var qlnx = _qlNx.GetNhap(IdCty(), mdh);
-           
+
             if (qlnx != null)
             {
                 var t = new QlNcc()
                 {
                     MaDonHang = qlnx.MaDonHang,
                     DonGiaMua = qlnx.ThanhToan,
-                    SoLuong = (int) qlnx.ThanhTien
+                    SoLuong = (int)qlnx.ThanhTien
                 };
                 kt.Add(t);
             }
             return Json(kt);
+         
         }
         public JsonResult GetTenNcc()
         {
