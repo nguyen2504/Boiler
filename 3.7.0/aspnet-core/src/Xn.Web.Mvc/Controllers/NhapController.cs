@@ -131,16 +131,7 @@ namespace Xn.Web.Controllers
                 t.TenNcc = entity[entity.Count - 1].TenNcc;
                 t.TenNv = _user.Users.SingleOrDefault(j =>j.Id.Equals(_user.AbpSession.UserId)).FullName;
                 t.NgayGhi = Convert.ToDateTime(entity[i].NgayGhi);
-                var iditem = int.Parse(Request.Cookies["iditem"]);
-                if (iditem == t.Id)
-                {
-                    var kt = _nhap.GetById(iditem);
-                    if (kt != null)
-                    {
-                        kt.IsActive = false;
-                    }
-                }
-                Response.Cookies.Delete("iditem");
+               
                 th.Add(t);
             }
            
