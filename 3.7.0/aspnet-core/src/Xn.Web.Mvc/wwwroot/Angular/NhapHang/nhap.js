@@ -39,6 +39,7 @@ function FnNhap($scope, $http) {
       //$scope.MaDonHang = e.data.result;
       $scope.NgayGhi = new Date();
     });
+    $scope.them = "Thêm";
     $scope.createi = true;
   }
 
@@ -63,7 +64,8 @@ function FnNhap($scope, $http) {
   $scope.xoaedit = function(id) {
     var url = 'Nhap/Xoaedit?id='+id;
     $http.post(url).then(function (e) {
-     
+      console.log(JSON.stringify(e.data));
+      init();
     });
   }
   $scope.getAll = function() {
@@ -157,7 +159,7 @@ function FnNhap($scope, $http) {
     });
   }
   $scope.onEdit = function (mdh) {
-    $scope.createi = !$scope.createi;
+    $scope.createi = false;
   $scope.them =  $scope.nhaphang = 'Cập Nhật';
     //console.log(mdh);
     var url = '/Nhap/Edit1?mdh=' + mdh;
